@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Gleb\\Desktop\\Flutter_Todo\\build\\flutter_native_splash\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Gleb\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gleb\\Desktop\\Flutter_Todo\\build\\flutter_native_splash\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Gleb\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gleb\\Desktop\\Flutter_Todo\\build\\flutter_native_splash\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Gleb\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gleb\\Desktop\\Flutter_Todo\\build\\flutter_native_splash\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Gleb\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    }
+]

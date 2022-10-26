@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Gleb\\Desktop\\Flutter_Todo\\build\\flutter_native_splash\\intermediates\\res\\merged\\release\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gleb\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Gleb\\Desktop\\Flutter_Todo\\build\\flutter_native_splash\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Gleb\\.gradle\\caches\\transforms-3\\2df83d80a26ba072756ed39ade2c5dfe\\transformed\\core-1.6.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
