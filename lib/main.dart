@@ -15,7 +15,14 @@ late Box box;
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+    options: FirebaseOptions(
+      apiKey: "AIzaSyCOV-bs6o7prexaiIGhs3-nbxemNTVeauk",
+      appId: "1:404169460374:web:47824a76a51f48b621d0b7",
+      messagingSenderId: "404169460374",
+      projectId: "myexodus90",
+    ),
+  );
   await Hive.initFlutter();
   Hive.registerAdapter(NotesAdapter());
   box = await Hive.openBox<Notes>("notes");
