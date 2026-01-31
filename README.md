@@ -13,26 +13,6 @@ Exodus is a feature-rich Flutter application designed to provide a seamless user
 * **Backend**: Firebase
 * **Database**: Hive, Cloud Firestore
 * **State Management**: Provider
-* **Dependencies**:
-	+ `firebase_auth`
-	+ `provider`
-	+ `cloud_firestore`
-	+ `flutter`
-	+ `cupertino_icons`
-	+ `flutter_slidable`
-	+ `google_fonts`
-	+ `simple_animations`
-	+ `path_provider`
-	+ `supercharged`
-	+ `animate_do`
-	+ `shared_preferences`
-	+ `lottie`
-	+ `font_awesome_flutter`
-	+ `flutter_launcher_icons`
-	+ `page_transition`
-	+ `hive`
-	+ `hive_flutter`
-	+ `animated_text_kit`
 
 ## 📦 Installation
 To get started with Exodus, follow these steps:
