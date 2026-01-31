@@ -64,5 +64,3 @@ Exodus is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ## 📬 Contact
 For any questions or concerns, please contact us at [glebanya.com@gmail.com](mailto:glebanya.com@gmail.com).
 
-## 💖 Thanks Message
-Thank you for using Exodus! We hope you find it helpful. This is written by [readme.ai](https://readme-generator-phi.vercel.app/).
